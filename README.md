@@ -18,7 +18,7 @@ This repository contains the source code for my personal portfolio website, buil
 
 ## 📸 Preview
 
-![Preview](./portfolio-preview.png)  
+![Preview](./portfolio-preview.png.png)  
 
 ## 📄 Resume
 
