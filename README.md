@@ -27,7 +27,7 @@ You can view/download my resume here: [resume.pdf](./resume.pdf)
 ## 🛠️ Tech Used
 
 - HTML5
-- Basic CSS (if added manually)
+- Basic CSS 
 - Hosted via GitHub
 
 ## 🙋‍♂️ Author
